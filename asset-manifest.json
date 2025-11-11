@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vacancy-dashboard/static/css/main.e9ec681b.css",
+    "main.js": "/vacancy-dashboard/static/js/main.f2a97b22.js",
+    "static/js/453.92532155.chunk.js": "/vacancy-dashboard/static/js/453.92532155.chunk.js",
+    "index.html": "/vacancy-dashboard/index.html",
+    "main.e9ec681b.css.map": "/vacancy-dashboard/static/css/main.e9ec681b.css.map",
+    "main.f2a97b22.js.map": "/vacancy-dashboard/static/js/main.f2a97b22.js.map",
+    "453.92532155.chunk.js.map": "/vacancy-dashboard/static/js/453.92532155.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9ec681b.css",
+    "static/js/main.f2a97b22.js"
+  ]
+}
