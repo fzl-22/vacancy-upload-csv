@@ -13,7 +13,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/vacancy-dashboard",
+  "homepage": "https://fzl-22.github.io/vacancy-dashboard",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
